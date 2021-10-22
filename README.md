@@ -25,3 +25,18 @@ Future features:
 - Allow user to save scores to leaderboard
 - Allow user to save scores to account for measuring progress over time.
 - Add microphone user input device (for tracking instruments, voice, clapping, etc.)
+
+## How To Use
+
+### From Source Code
+
+**Note: Must have the latest version of Node installed**
+
+1. Open your terminal of choice.
+2. Clone the repository with `git clone https://github.com/TeenageMutantCoder/in-time`
+3. Change to the respository directory with `cd in-time`
+4. Run the client
+   1. Change to the client directory using `cd client`
+   2. Install needed dependencies with `npm install` or `yarn install` (you can install yarn with `npm install -g yarn`)
+   3. Run the development server with `npm run dev` or `yarn dev`
+   4. In your web browser, view the site at [http://localhost:3000/](http://localhost:3000/)
