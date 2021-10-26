@@ -1,6 +1,6 @@
 # In-Time
 
-Web application to practice keeping time in a musical context. You choose a song or load a random beat and press a key (or use mouse button or touch controls) to play along with the beat. The beat will fade out, and you will need to continue the beat. You can choose the length of time that the song/beat will fade out (if at all). You can save your scores and have them show up on a leaderboard along with your name if signed in.
+Web application to practice keeping time in a musical context. You choose a song or load a random beat and press a key (or use mouse button or touch controls) to play along with the beat. The beat will fade out, and you will need to continue the beat. You can choose the length of time that the song/beat will fade out (if at all). You can save your scores and have them show up on a leaderboard along with your name if signed in. The closest thing I could find that exists is [this](https://www.concerthotels.com/got-rhythm), but my goal is to make my version more feature-rich.
 
 Tech Stack:
 
